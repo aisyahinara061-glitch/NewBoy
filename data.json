@@ -1,0 +1,29 @@
+{
+  "config": {
+    "max_score": 50,
+    "default_lives": 3,
+    "hint_cost": 5,
+    "skip_cost": 1
+  },
+  "users": [
+    {
+      "name": "azka",
+      "score": 50,
+      "lives": 3,
+      "highscore": 0,
+      "role": "ADMIN"
+    }
+  ],
+  "questions": [
+    {
+      "hint": "Alat komunikasi, bisa buat chat dan telepon",
+      "answer": "HP",
+      "masked": ["_", "P"]
+    },
+    {
+      "hint": "Benda persegi untuk mengetik",
+      "answer": "KEYBOARD",
+      "masked": ["_", "_", "_", "_", "_", "_", "_", "D"]
+    }
+  ]
+}
