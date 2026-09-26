@@ -12,18 +12,37 @@
       "lives": 3,
       "highscore": 0,
       "role": "ADMIN"
+    },
+    {
+      "name": "Inara",
+      "score": 50,
+      "lives": 3,
+      "highscore": 0,
+      "role": "USER"
     }
   ],
   "questions": [
     {
       "hint": "Alat komunikasi, bisa buat chat dan telepon",
       "answer": "HP",
-      "masked": ["_", "P"]
+      "masked": [
+        "_",
+        "P"
+      ]
     },
     {
       "hint": "Benda persegi untuk mengetik",
       "answer": "KEYBOARD",
-      "masked": ["_", "_", "_", "_", "_", "_", "_", "D"]
+      "masked": [
+        "_",
+        "_",
+        "_",
+        "_",
+        "_",
+        "_",
+        "_",
+        "D"
+      ]
     }
   ]
 }
