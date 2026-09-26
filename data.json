@@ -19,6 +19,13 @@
       "lives": 3,
       "highscore": 0,
       "role": "USER"
+    },
+    {
+      "name": "Kak Wulan",
+      "score": 50,
+      "lives": 3,
+      "highscore": 0,
+      "role": "USEER"
     }
   ],
   "questions": [
