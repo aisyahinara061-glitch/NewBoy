@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "nama": "azka",
+      "password": "12345",
+      "role": "admin"
+    },
+    {
+      "nama": "budi",
+      "password": "budi12345",
+      "role": "user"
+    },
+    {
+      "nama": "citra",
+      "password": "citra123",
+      "role": "user"
+    }
+  ]
+}
